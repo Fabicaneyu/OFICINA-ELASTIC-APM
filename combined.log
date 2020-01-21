@@ -1,0 +1,14 @@
+{"level":"info","message":"Server running on  http://localhost:3000","meta":{"server":"http://localhost:3000"},"service":"node-app"}
+{"level":"info","message":"Server running on  http://localhost:3000","meta":{"server":"http://localhost:3000"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"3df9d444-a74f-4e08-9cfc-156cce874b60","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Server running on  http://localhost:3000","meta":{"server":"http://localhost:3000"},"service":"node-app"}
+{"level":"info","message":"Server running on  http://localhost:3000","meta":{"server":"http://localhost:3000"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"9fca5aa3-d4f8-404d-aa44-b478e410cbf6","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"05b46a10-2f86-4c52-ad05-0b2a3e9749fb","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"7059ceaf-ca2a-43e6-a2f4-cb8af588ed93","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"f6f66594-23d1-4319-8d1f-48e70a6e5fdf","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"1db447a4-d5b3-49a2-97f2-ffa8ae29d1c9","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"a2374f1c-7e53-443a-bddb-47f8b99967ec","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"1bfcd932-c98c-4318-a1c6-3168fa759275","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"bdf5f1ee-c326-4be3-8517-253d3fdaa300","path":"/hello","method":"get"},"service":"node-app"}
+{"level":"info","message":"Hello said here with context: undefined","meta":{"correlation-id":"c052e52f-e818-4e6c-8900-9b56d45db22e","path":"/hello","method":"get"},"service":"node-app"}
